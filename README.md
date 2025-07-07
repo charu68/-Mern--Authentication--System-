@@ -1,1 +1,1 @@
-# -Mern--Authentication--System-
+# Mern-Authentication--System-
